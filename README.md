@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 
 ## Notes
-- The `GoogleNews-vectors-negative300.bin` file is required for running phrase similarity calculations. Please download that from from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+- The `GoogleNews-vectors-negative300.bin` file is required for running phrase similarity calculations. Please download that from from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit and include that in the project folder.
 - The FastAPI app provides an API for additional functionalities.
 
 Feel free to modify and extend the functionality as needed! 🚀
