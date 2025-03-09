@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+gensim = "*"
+numpy = "*"
+pandas = "*"
+scipy = "*"
+nltk = "*"
+python-levenshtein = "*"
+fastapi = "*"
+uvicorn = "*"
+pytest = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
